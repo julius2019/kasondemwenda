@@ -1,0 +1,48 @@
+.img-sata{
+  margin-top: -35px;
+  margin-bottom: 20px;
+
+  height: 40%;
+  width:  40%;
+
+}
+
+.icon-bar{
+	color: white;
+}
+
+.parag{
+ color:black;
+ margin-top: 20px;
+ font: 10px italic Arial,Helvetica,Tahoma ;
+}
+
+a.btn{
+	background-color: darkorange;
+	color:white;
+    border-radius: 20px;
+    padding: 0px 5px;
+
+}
+
+}
+.btn-small{
+	background-color: darkorange;
+	color:white;
+	font-size: 15px;
+	margin: 10px 0px;
+    padding: 0px 5px;
+    border-radius: 20px;
+}
+
+a.btn-small:hover{
+	background-color: darkorange;
+	color:white;
+	box-shadow: 10px 10px 10px gray;
+}
+
+a.btn-small:visited{
+	background-color: darkorange;
+	color:white;
+	box-shadow: 10px 10px 10px gray;
+}
